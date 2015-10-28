@@ -1,0 +1,2 @@
+1:  http://www.codeaffine.com/2014/12/09/jgit-authentication/
+2:
