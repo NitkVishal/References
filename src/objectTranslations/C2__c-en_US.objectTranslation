@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>C2</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>C2</value>
+    </caseValues>
+    <fields>
+        <label><!-- C1parent --></label>
+        <name>C1parent__c</name>
+        <relationshipLabel><!-- C2 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- P1Parent --></label>
+        <name>P1Parent__c</name>
+        <relationshipLabel><!-- C2 --></relationshipLabel>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
