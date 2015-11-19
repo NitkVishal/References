@@ -1,0 +1,2 @@
+1.git config credential.helper store
+  Discription :  I will strore user user name password from console, and form next time onword its will take automatically stored user name and password 
