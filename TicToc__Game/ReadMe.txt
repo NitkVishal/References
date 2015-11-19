@@ -1,0 +1,1 @@
+This game work only for netbeans plateforms..
